@@ -1,0 +1,3 @@
+[submodule "DevopsDocs"]
+	path = DevopsDocs
+	url = git@github.com:ashokchim/ashokchim.git
